@@ -1,0 +1,22 @@
+hr {
+    background-color: #ccc;
+    height: 1px;
+    margin: 4px;
+    border: none;
+}
+
+li {
+    color: brown;
+}
+
+.h {
+    line-height: 50px;
+}
+
+.lo {
+    letter-spacing: 2px;
+}
+
+p {
+    color: brown;
+}
